@@ -21,6 +21,7 @@ export default function quote() {
         textAlign='center'
         alignItems='center'
         justifySelf='center'
+        color='white'
       >
         Send us information about your project and we will get back to you with an estimated quote
       </Typography>

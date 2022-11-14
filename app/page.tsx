@@ -15,7 +15,7 @@ export default function Home() {
       sx={{ background: '#59A5D8' }}
     >
       <Typography
-        variant='h6'
+        variant='h5'
         sx={{ maxWidth: '816px', padding: '64px 16px'}}
         align='center'
         textAlign='center'
@@ -23,7 +23,7 @@ export default function Home() {
         justifySelf='center'
         color='white'
       >
-        This is some text describing the function of the company and what we do. Maybe a little bit about us, and why we can get the job done.
+        JFC Concrete Company is a family-owned and operated concrete business service. We've been providing services for more than 30 years in Houston and the surrounding areas. We offer a wide variety of services for commercial and residential concrete needs.
       </Typography>
       <ImageCarousel />
       <Link href='quote'>
